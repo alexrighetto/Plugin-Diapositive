@@ -1,0 +1,72 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: slide_slideshow 1.0\n"
+"POT-Creation-Date: 2013-12-14 21:01+0100\n"
+"PO-Revision-Date: 2013-12-14 21:05+0100\n"
+"Last-Translator: Alex Righetto <alexrighetto@gmail.com>\n"
+"Language-Team: Alexrighetto <alexrighetto@gmail.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.2\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: _x;__\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../diapositive.php:23
+msgid "Slides"
+msgstr ""
+
+#: ../diapositive.php:24 ../diapositive.php:25
+msgid "Slide"
+msgstr ""
+
+#: ../diapositive.php:26
+msgid "Parent Slide"
+msgstr ""
+
+#: ../diapositive.php:27
+msgid "All slides"
+msgstr ""
+
+#: ../diapositive.php:28
+msgid "View Slides"
+msgstr ""
+
+#: ../diapositive.php:29
+msgid "Add new Slide"
+msgstr ""
+
+#: ../diapositive.php:30
+msgid "Add New"
+msgstr ""
+
+#: ../diapositive.php:31
+msgid "Edi Slide"
+msgstr ""
+
+#: ../diapositive.php:32
+msgid "Update Slide"
+msgstr ""
+
+#: ../diapositive.php:33
+msgid "Search Slide"
+msgstr ""
+
+#: ../diapositive.php:34
+msgid "No Slides found"
+msgstr ""
+
+#: ../diapositive.php:35
+msgid "No Slides found in Trash"
+msgstr ""
+
+#: ../diapositive.php:53
+msgid "slide"
+msgstr ""
+
+#: ../diapositive.php:54
+msgid "Slide in homepage"
+msgstr ""

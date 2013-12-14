@@ -1,0 +1,143 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: slide_slideshow 1.0\n"
+"POT-Creation-Date: 2013-12-14 22:13+0100\n"
+"PO-Revision-Date: 2013-12-14 22:16+0100\n"
+"Last-Translator: Alex Righetto <alexrighetto@gmail.com>\n"
+"Language-Team: Alexrighetto <alexrighetto@gmail.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.2\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: _x;__;esc_html__;_e\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../diapositive.php:22
+msgid "Slides"
+msgstr "Diapositive"
+
+#: ../diapositive.php:23 ../diapositive.php:24
+msgid "Slide"
+msgstr "Diapositive"
+
+#: ../diapositive.php:25
+msgid "Parent Slide"
+msgstr "Diapositiva genitore"
+
+#: ../diapositive.php:26
+msgid "All slides"
+msgstr "Tutte le diapositive"
+
+#: ../diapositive.php:27
+msgid "View Slides"
+msgstr "Vedi diapositiva"
+
+#: ../diapositive.php:28
+msgid "Add new Slide"
+msgstr "Aggiungi una nuova diapositiva"
+
+#: ../diapositive.php:29
+msgid "Add New"
+msgstr "Aggiungi"
+
+#: ../diapositive.php:30
+msgid "Edit Slide"
+msgstr "Modifica diapositiva"
+
+#: ../diapositive.php:31
+msgid "Update Slide"
+msgstr "Update Slide"
+
+#: ../diapositive.php:32
+msgid "Search Slide"
+msgstr "Cerca diapositiva"
+
+#: ../diapositive.php:33
+msgid "No Slides found"
+msgstr "Nessuna diapositiva trovata"
+
+#: ../diapositive.php:34
+msgid "No Slides found in Trash"
+msgstr "Nessuna diapositiva trovata nel cestino"
+
+#: ../diapositive.php:103
+#, php-format
+msgid "slide updated. <a href=\"%s\">View slide</a>"
+msgstr "Diapositiva aggiornata. <a href=”%s”>Vedi diapositiva</a>"
+
+#: ../diapositive.php:104
+#, fuzzy
+msgid "Custom field updated."
+msgstr "Compila il campo."
+
+#: ../diapositive.php:105
+#, fuzzy
+msgid "Custom field deleted."
+msgstr "Compila il campo."
+
+#: ../diapositive.php:106
+msgid "slide updated."
+msgstr "Diapositiva aggiornata."
+
+#: ../diapositive.php:108
+#, php-format
+msgid "slide restored to revision from %s"
+msgstr "Diapositiva ripristinata dalla revisione da %s"
+
+#: ../diapositive.php:109
+#, php-format
+msgid "slide published. <a href=\"%s\">View slide</a>"
+msgstr "Diapositiva pubblicata. <a href=”%s”>Vedi diapositiva</a>"
+
+#: ../diapositive.php:110
+msgid "slide saved."
+msgstr "Diapositiva salvata."
+
+#: ../diapositive.php:111
+#, fuzzy, php-format
+msgid "slide submitted. <a target=\"_blank\" href=\"%s\">Preview slide</a>"
+msgstr "Diapositiva"
+
+#: ../diapositive.php:112
+#, php-format
+msgid ""
+"slide scheduled for: <strong>%1$s</strong>. <a target=\"_blank\" href=\"%2$s"
+"\">Preview slide</a>"
+msgstr ""
+"Diapositiva  programmata per: <strong>%1$s</strong>. <a target=”_blank” "
+"href=”%2$s”>Anteprima</a>"
+
+#: ../diapositive.php:114
+msgid "M j, Y @ G:i"
+msgstr "M j, Y @ G:i"
+
+#: ../diapositive.php:115
+#, fuzzy, php-format
+msgid "slide draft updated. <a target=\"_blank\" href=\"%s\">Preview slide</a>"
+msgstr "Diapositiva"
+
+#: ../diapositive.php:149
+msgid "Link to site content"
+msgstr "Collegamento ad un contenuto del sito"
+
+#: ../diapositive.php:163
+msgid "Select the content of the site that this slide should be connected."
+msgstr ""
+"Seleziona il contenuto del sito a cui questa diapositiva si deve collegare."
+
+#, fuzzy
+#~ msgid ""
+#~ "Add a custom CSS class, which will be applied to WordPress' post class."
+#~ msgstr "<span class=”meta-nav”>&larr;</span> Precedente"
+
+#~ msgid "Home Slides"
+#~ msgstr "Diapositive"
+
+#~ msgid "slide"
+#~ msgstr "diapositiva"
+
+#~ msgid "Slide in homepage"
+#~ msgstr "Diapositive in prima pagina"
