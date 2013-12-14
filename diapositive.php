@@ -5,7 +5,7 @@ Plugin URI: https://github.com/creativita-digitale/Plugin-Diapositive
 Description: Slideshow dai contenuti del sito, dagli articoli alle pagine o altro.
 Version: 1.0
 Author: Alex Righetto
-Author URI: http://example.com
+Author URI: https://github.com/alexrighetto
 License: GPLv2
 
   Copyright 2013  RIGHETTO ALEX  (email : alexrighetto@gmail.com)
