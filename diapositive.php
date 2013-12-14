@@ -42,7 +42,14 @@ register_activation_hook( __FILE__, 'ar_slide_slideshow_install' );
 
 
 
-if ( is_admin() ) {
+add_action( 'init', 'github_plugin_updater_test_init' );
+function github_plugin_updater_test_init() {
+
+	include_once 'updater.php';
+
+	define( 'WP_GITHUB_FORCE_UPDATE', true );
+
+	if ( is_admin() ) { // note the use of is_admin() to double check that this is happening in the admin
     // we're in wp-admin
     require_once( dirname(__FILE__).'/updater.php' );
 	$config = array(
@@ -59,8 +66,9 @@ if ( is_admin() ) {
 			'access_token' => '40e2d0d6b62404e70ed89537a18983483eed3e0a', // Access private repositories by authorizing under Appearance > Github Updates when this example plugin is installed
 		);
 		new WP_GitHub_Updater($config);
-}
+	}
 
+}
 
 function ar_slide_slideshow_init()
 {
