@@ -3,7 +3,7 @@
 Plugin Name: Slidesow dai contenuti
 Plugin URI: https://github.com/creativita-digitale/Plugin-Diapositive
 Description: Slideshow dai contenuti del sito, dagli articoli alle pagine o altro.
-Version: 1.0
+Version: 1.1
 Author: Alex Righetto
 Author URI: https://github.com/alexrighetto
 License: GPLv2
