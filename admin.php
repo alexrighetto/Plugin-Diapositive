@@ -179,7 +179,7 @@ function slide_post_class_meta_box($object, $box)
 		'post_type' => array(
 			'post',
 			'page',
-			'vini',
+			'vino',
 			'riconoscimento',
 			'tribe_events'
 		) ,
